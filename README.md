@@ -36,5 +36,5 @@ oracle의 사원 데이터베이스 정보를 간편하게 관리하고 조회�
 - 화면 간 이동 기능 구현
   
 # 산출물
-<img src="\스크린샷\그림01"  width="700" height="370">
+<img width="863" alt="image src = "">
 
