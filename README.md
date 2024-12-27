@@ -36,4 +36,4 @@ oracle의 사원 데이터베이스 정보를 간편하게 관리하고 조회�
 - 화면 간 이동 기능 구현
   
 # 실행 화면
-https://github.com/dl-wjdals/Semi-Project/issues
+[https://github.com/dl-wjdals/Semi-Project/issues](https://github.com/dl-wjdals/Semi-Project/issues/1)
